@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 100.0,
+        "from": "RUB",
+        "to": "EUR",
+        "result": 1.137
+    },
+    {
+        "amount": 100.0,
+        "from": "RUB",
+        "to": "EUR",
+        "result": 1.137
+    }
+]
